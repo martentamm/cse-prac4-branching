@@ -1,0 +1,4 @@
+1. branches - master, index, bower, package, landing-ru, landing
+2. index 
+3. total of 16 commits
+4. added locked package, removed lock, added package
